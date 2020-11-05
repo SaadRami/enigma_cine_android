@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ciné Enigma</string>
+    <string name="action_settings">Settings</string>
+    <string name="unit_price">Unit Price</string>
+    <string name="book_name">Book Name</string>
+    <string name="submit_button">Submit Button</string>
+    <string name="make_critic">Ajouter une critique</string>
+    <string name="msg_remplir_champs">Veuillez remplir tous les champs</string>
+    <string name="movie_critic_successfull">Critique sauvegardée avec succès</string>
+    <string name="films">Films :</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="musique">Musique :</string>
+</resources>
